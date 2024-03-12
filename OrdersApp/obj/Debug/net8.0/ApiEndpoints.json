@@ -11,6 +11,22 @@
   },
   {
     "ContainingType": "OrdersApp.Controllers.OrderController",
+    "Method": "AddOrder",
+    "RelativePath": "api/orders",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "order",
+        "Type": "OrdersApp.Order",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OrdersApp.Controllers.OrderController",
     "Method": "GetOrderById",
     "RelativePath": "api/orders/{id}",
     "HttpMethod": "GET",

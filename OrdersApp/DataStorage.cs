@@ -15,14 +15,23 @@
             };
         }
 
+        // GET ALL
         public async Task<IEnumerable<Order>> GetAllOrders()
         {
             return await Task.FromResult(_orders);
         }
 
+        // GET BY ID
         public async Task<Order> GetOrderById(int id)
         {
             return await Task.FromResult(_orders.Single(o => o.Id == id));
+        }
+
+        // POST
+        public async Task AddOrder(Order order)
+        {
+            _orders.Add(order);
+             await Task.CompletedTask;
         }
     }
 }

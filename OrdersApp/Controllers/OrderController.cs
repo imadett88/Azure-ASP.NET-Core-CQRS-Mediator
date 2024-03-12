@@ -1,5 +1,6 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
+using OrdersApp.Commandes;
 using OrdersApp.Queries;
 
 namespace OrdersApp.Controllers
@@ -30,6 +31,14 @@ namespace OrdersApp.Controllers
             var order = await _sender.Send(new GetOrderByIdQuery(id));
 
             return Ok(order);
+        }
+
+        [HttpPost]
+        public async Task<ActionResult> AddOrder([FromBody] Order order)
+        {
+            await _sender.Send(new AddOrderCommande(order));
+
+            return StatusCode(201);
         }
     }
 }

@@ -8,6 +8,8 @@ builder.Services.AddSingleton<DataStorage>();
 
 builder.Services.AddControllers();
 
+builder.Services.AddSwaggerGen();
+
 // Register MediatR
 builder.Services.AddMediatR(typeof(Program).Assembly);
 
@@ -17,5 +19,11 @@ var app = builder.Build();
 app.UseHttpsRedirection();
 app.UseAuthorization();
 app.MapControllers();
+
+
+// Swagger
+app.UseSwagger();
+app.UseSwaggerUI();
+
 
 app.Run();

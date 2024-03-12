@@ -1,0 +1,10 @@
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Prat\OrdersApp\OrdersApp\obj\Release\net8.0\PubTmp\Out\OrdersApp.exe
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Prat\OrdersApp\OrdersApp\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Prat\OrdersApp\OrdersApp\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Prat\OrdersApp\OrdersApp\obj\Release\net8.0\PubTmp\Out\OrdersApp.dll
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Prat\OrdersApp\OrdersApp\obj\Release\net8.0\PubTmp\Out\OrdersApp.deps.json
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Prat\OrdersApp\OrdersApp\obj\Release\net8.0\PubTmp\Out\OrdersApp.runtimeconfig.json
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Prat\OrdersApp\OrdersApp\obj\Release\net8.0\PubTmp\Out\OrdersApp.pdb
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Prat\OrdersApp\OrdersApp\obj\Release\net8.0\PubTmp\Out\MediatR.dll
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Prat\OrdersApp\OrdersApp\obj\Release\net8.0\PubTmp\Out\MediatR.Contracts.dll
+C:\Users\IMAD.ETTAMEN\OneDrive - Akkodis\Bureau\Prat\OrdersApp\OrdersApp\obj\Release\net8.0\PubTmp\Out\MediatR.Extensions.Microsoft.DependencyInjection.dll

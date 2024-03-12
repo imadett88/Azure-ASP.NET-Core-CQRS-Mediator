@@ -33,5 +33,24 @@
             _orders.Add(order);
              await Task.CompletedTask;
         }
+
+        // PUT :
+
+        // PUT
+        public async Task UpdateOrder(Order order)
+        {
+            Order exsitOrder = _orders.FirstOrDefault(o => o.Id == order.Id);
+
+            if (exsitOrder != null)
+            {
+                exsitOrder.Name = order.Name;
+                exsitOrder.Description = order.Description;
+                exsitOrder.Price = order.Price;
+            }
+
+            await Task.CompletedTask;
+        }
+
+        // DELETE
     }
 }

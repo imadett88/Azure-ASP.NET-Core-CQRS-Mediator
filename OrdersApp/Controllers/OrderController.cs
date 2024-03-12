@@ -18,6 +18,8 @@ namespace OrdersApp.Controllers
             _publisher = publisher;
         }
 
+
+        // GET
         [HttpGet]
         public async Task<ActionResult> GetOrders()
         {
@@ -25,6 +27,7 @@ namespace OrdersApp.Controllers
             return Ok(orders);
         }
 
+        // GET BY ID
         [HttpGet("{id:int}", Name = "GetOrderById")]
         public async Task<ActionResult> GetOrderById(int id)
         {
@@ -33,6 +36,7 @@ namespace OrdersApp.Controllers
             return Ok(order);
         }
 
+        // POST
         [HttpPost]
         public async Task<ActionResult> AddOrder([FromBody] Order order)
         {
@@ -40,5 +44,16 @@ namespace OrdersApp.Controllers
 
             return StatusCode(201);
         }
+
+        // PUT
+        [HttpPut("{id}")]
+        public async Task<ActionResult> UpdateOrder(int id, [FromBody] Order order)
+        {
+            await _sender.Send(new UpdateOrderCommande(id,order));
+
+            return Ok();
+        }
+
+        // DELETE
     }
 }

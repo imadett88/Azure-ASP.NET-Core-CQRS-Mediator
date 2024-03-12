@@ -7,20 +7,12 @@
       "RelativeMoniker": "D:0:0:{22EB04DF-380E-472D-AAFF-B3DCCFD8904D}|OrdersApp\\OrdersApp.csproj|solutionrelative:ordersapp\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22EB04DF-380E-472D-AAFF-B3DCCFD8904D}|OrdersApp\\OrdersApp.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\prat\\ordersapp\\ordersapp\\handlers\\updateorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22EB04DF-380E-472D-AAFF-B3DCCFD8904D}|OrdersApp\\OrdersApp.csproj|solutionrelative:ordersapp\\handlers\\updateorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22EB04DF-380E-472D-AAFF-B3DCCFD8904D}|OrdersApp\\OrdersApp.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\prat\\ordersapp\\ordersapp\\commandes\\deleteordercommande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22EB04DF-380E-472D-AAFF-B3DCCFD8904D}|OrdersApp\\OrdersApp.csproj|solutionrelative:ordersapp\\commandes\\deleteordercommande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22EB04DF-380E-472D-AAFF-B3DCCFD8904D}|OrdersApp\\OrdersApp.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\prat\\ordersapp\\ordersapp\\datastorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22EB04DF-380E-472D-AAFF-B3DCCFD8904D}|OrdersApp\\OrdersApp.csproj|solutionrelative:ordersapp\\datastorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22EB04DF-380E-472D-AAFF-B3DCCFD8904D}|OrdersApp\\OrdersApp.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\prat\\ordersapp\\ordersapp\\commandes\\updateordercommande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22EB04DF-380E-472D-AAFF-B3DCCFD8904D}|OrdersApp\\OrdersApp.csproj|solutionrelative:ordersapp\\commandes\\updateordercommande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22EB04DF-380E-472D-AAFF-B3DCCFD8904D}|OrdersApp\\OrdersApp.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\prat\\ordersapp\\ordersapp\\commandes\\deleteordercommande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22EB04DF-380E-472D-AAFF-B3DCCFD8904D}|OrdersApp\\OrdersApp.csproj|solutionrelative:ordersapp\\commandes\\deleteordercommande.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22EB04DF-380E-472D-AAFF-B3DCCFD8904D}|OrdersApp\\OrdersApp.csproj|c:\\users\\imad.ettamen\\onedrive - akkodis\\bureau\\prat\\ordersapp\\ordersapp\\handlers\\deleteorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,21 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Prat\\OrdersApp\\OrdersApp\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "OrdersApp\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Prat\\OrdersApp\\OrdersApp\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "OrdersApp\\Controllers\\OrderController.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAcwDAAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T14:09:46.43Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -57,61 +36,48 @@
               "RelativeDocumentMoniker": "OrdersApp\\DataStorage.cs",
               "ToolTip": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Prat\\OrdersApp\\OrdersApp\\DataStorage.cs",
               "RelativeToolTip": "OrdersApp\\DataStorage.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAuwCcAAAAGAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAA+wDsAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T14:09:18.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UpdateOrderHandler.cs",
-              "DocumentMoniker": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Prat\\OrdersApp\\OrdersApp\\Handlers\\UpdateOrderHandler.cs",
-              "RelativeDocumentMoniker": "OrdersApp\\Handlers\\UpdateOrderHandler.cs",
-              "ToolTip": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Prat\\OrdersApp\\OrdersApp\\Handlers\\UpdateOrderHandler.cs",
-              "RelativeToolTip": "OrdersApp\\Handlers\\UpdateOrderHandler.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBYAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T14:08:50.549Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DeleteOrderCommande.cs",
-              "DocumentMoniker": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Prat\\OrdersApp\\OrdersApp\\Commandes\\DeleteOrderCommande.cs",
-              "RelativeDocumentMoniker": "OrdersApp\\Commandes\\DeleteOrderCommande.cs",
-              "ToolTip": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Prat\\OrdersApp\\OrdersApp\\Commandes\\DeleteOrderCommande.cs",
-              "RelativeToolTip": "OrdersApp\\Commandes\\DeleteOrderCommande.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T14:08:30.585Z",
+              "WhenOpened": "2024-03-12T14:41:00.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UpdateOrderCommande.cs",
-              "DocumentMoniker": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Prat\\OrdersApp\\OrdersApp\\Commandes\\UpdateOrderCommande.cs",
-              "RelativeDocumentMoniker": "OrdersApp\\Commandes\\UpdateOrderCommande.cs",
-              "ToolTip": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Prat\\OrdersApp\\OrdersApp\\Commandes\\UpdateOrderCommande.cs",
-              "RelativeToolTip": "OrdersApp\\Commandes\\UpdateOrderCommande.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T14:08:16.745Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "DeleteOrderHandler.cs",
               "DocumentMoniker": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Prat\\OrdersApp\\OrdersApp\\Handlers\\DeleteOrderHandler.cs",
               "RelativeDocumentMoniker": "OrdersApp\\Handlers\\DeleteOrderHandler.cs",
               "ToolTip": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Prat\\OrdersApp\\OrdersApp\\Handlers\\DeleteOrderHandler.cs",
               "RelativeToolTip": "OrdersApp\\Handlers\\DeleteOrderHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T14:09:12.933Z",
+              "WhenOpened": "2024-03-12T14:40:58.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Prat\\OrdersApp\\OrdersApp\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "OrdersApp\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Prat\\OrdersApp\\OrdersApp\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "OrdersApp\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T14:40:55.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteOrderCommande.cs",
+              "DocumentMoniker": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Prat\\OrdersApp\\OrdersApp\\Commandes\\DeleteOrderCommande.cs",
+              "RelativeDocumentMoniker": "OrdersApp\\Commandes\\DeleteOrderCommande.cs",
+              "ToolTip": "C:\\Users\\IMAD.ETTAMEN\\OneDrive - Akkodis\\Bureau\\Prat\\OrdersApp\\OrdersApp\\Commandes\\DeleteOrderCommande.cs",
+              "RelativeToolTip": "OrdersApp\\Commandes\\DeleteOrderCommande.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T14:40:53.22Z",
               "EditorCaption": ""
             }
           ]

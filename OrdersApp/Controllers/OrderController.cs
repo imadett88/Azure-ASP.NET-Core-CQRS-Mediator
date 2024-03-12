@@ -55,5 +55,12 @@ namespace OrdersApp.Controllers
         }
 
         // DELETE
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteOrder(int id)
+        {
+            await _sender.Send(new DeleteOrderCommande(id));
+
+            return NoContent();
+        }
     }
 }

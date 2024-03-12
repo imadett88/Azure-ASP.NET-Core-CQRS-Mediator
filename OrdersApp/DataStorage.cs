@@ -34,7 +34,6 @@
              await Task.CompletedTask;
         }
 
-        // PUT :
 
         // PUT
         public async Task UpdateOrder(Order order)
@@ -52,5 +51,16 @@
         }
 
         // DELETE
+        public async Task DeleteOrder(int id)
+        {
+            Order existOrder = _orders.FirstOrDefault(o => o.Id == id);
+
+            if (existOrder != null)
+            {
+                _orders.Remove(existOrder);
+            }
+
+            await Task.CompletedTask;
+        }
     }
 }

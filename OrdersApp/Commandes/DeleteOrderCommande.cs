@@ -1,6 +1,7 @@
-﻿namespace OrdersApp.Commandes
+﻿using MediatR;
+
+namespace OrdersApp.Commandes
 {
-    public class DeleteOrderCommande
-    {
-    }
+    public record DeleteOrderCommande(int id) : IRequest;
+
 }
